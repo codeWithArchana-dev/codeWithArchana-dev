@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewitharchana-dev&label=Profile%20views&color=0e75b6&style=flat" alt="codewitharchana-dev" /> </p>
 
-- 🌱 I’m currently learning Frontend **React,Fullstack**
+- 🌱 Frontend Developer | React Developer | Web Developer
 
 - 📫 How to reach me **https://www.linkedin.com/in/codewitharchu/**
 
