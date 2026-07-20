@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/codewitharchu/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g-xYRj-KJEMt3DnDUGnceyCzkoJrJgHw/view?usp=drive_link](https://drive.google.com/file/d/1g-xYRj-KJEMt3DnDUGnceyCzkoJrJgHw/view?usp=drive_link)
-
 - ⚡ Fun fact **I am Funny😉**
 
 <h3 align="left">Connect with me:</h3>
